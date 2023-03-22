@@ -4,19 +4,19 @@
 
 ### [Plane Geometry](https://www.youmath.it/formulari/formulari-di-geometria-piana.html)
 
-- [ ] 1 Fundamental geometric entities
-- [ ] 2 Segments
-- [ ] 3 Angles
-- [ ] 6 Radiants
-- [ ] 26 Height, median, bisector, axis of a triangle
-- [ ] 27 Ortocentre, incentre, barycentre, circumcentre, excentre of a triangle
+- [x] 1 Fundamental geometric entities
+- [x] 2 Segments
+- [x] 3 Angles
+- [x] 6 Radiants
+- [x] 26 Height, median, bisector, axis of a triangle
+- [x] 27 Ortocentre, incentre, barycentre, circumcentre, excentre of a triangle
 
 ### [Analytical Geometry](https://www.youmath.it/formulari/formulari-di-geometria-analitica.html)
 
-- [ ] 1 Cartesian plane
-- [ ] 2 Distance between 2 points
-- [ ] 3 Midpoint of a segment
-- [ ] 4 Geometric centre of gravity and centre of mass
+- [x] 1 Cartesian plane
+- [x] 2 Distance between 2 points
+- [x] 3 Midpoint of a segment
+- [x] 4 Geometric centre of gravity and centre of mass
 - [ ] 5 Straight line: formulas
 - [ ] 6 Straight line equation
 - [ ] 7 Angular coefficient
